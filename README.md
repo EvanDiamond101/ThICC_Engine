@@ -39,7 +39,7 @@ Our engine featured:
  - AI systems
  - Blender integration
  - Image-based lighting
- - Mesh collision & AABB collision
+ - Mesh collision & OBB collision
  - Optimised build target
  - Scene management
  - Audio system
